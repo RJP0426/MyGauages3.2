@@ -25,7 +25,7 @@ class ViewController: UIViewController {
         gaugeView.labelColor = UIColor.lightGray
         gaugeView.labelText = "75"
         gaugeView.gaugeBackgroundColor = UIColor.lightGray
-        gaugeView.gaugeColor = UIColor.blue
+        gaugeView.gaugeColor = UIColor.green
         //gauge 2
         Gauge2.percentage = 80
         Gauge2.thickness = 5
